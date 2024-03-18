@@ -8,9 +8,3 @@ My mission is to build exceptional mobile experiences that users love. I thrive 
 Throughout my journey, I've achieved significant enhancements in app speed, boasting a 50% boost, and slashed build times by 30% through innovative Swift packages. 🚀
 
 I'm always on the lookout for exciting new projects and collaborations. Let's work together to turn your ideas into reality! 💪
-
----
-
-📫 Reach out to me at [asheshp23@gmail.com](mailto:asheshp23@gmail.com) 
-
----
