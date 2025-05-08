@@ -1,10 +1,1 @@
-
-# Hey there! 👋
-
-I'm Asheshkumar B Patel, a passionate iOS developer with over five years of experience crafting cutting-edge applications using Swift, SwiftUI, and UIKit. 📱✨
-
-My mission is to build exceptional mobile experiences that users love. I thrive on optimizing app performance and have a knack for delivering remarkable results. 💡
-
-Throughout my journey, I've achieved significant enhancements in app speed, boasting a 50% boost, and slashed build times by 30% through innovative Swift packages. 🚀
-
-I'm always on the lookout for exciting new projects and collaborations. Let's work together to turn your ideas into reality! 💪
+Passionate iOS developer crafting intuitive digital experiences that simplify lives and spark joy. When not immersed in code, I'm exploring the transformative power of meditation and gratitude - finding peace in our chaotic world and sharing these practices with others. My journey weaves technology with personal growth, believing that mindfulness enhances creativity and innovation. As Rabindranath Tagore wrote, "The butterfly measures its existence not by months, but by moments, and it has plenty of time." - a philosophy that guides both my development work and spiritual explorations.
