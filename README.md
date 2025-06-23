@@ -6,10 +6,10 @@
 iOS developer with experience building enterprise applications for the healthcare and agriculture sectors. Specializing in API integration, automated testing, and Swift package development.
 
 ## Published Applications
-**Deveron Field Ops** - [view it on App store](https://apps.apple.com/us/app/deveron-field-ops/id1589186774)
+**Deveron Field Ops** - [View it on App store](https://apps.apple.com/us/app/deveron-field-ops/id1589186774)
 - Agriculture field management application
   
-**Deveron Lab Ops** - [view it on App Store](https://apps.apple.com/us/app/deveron-lab-ops/id1600213314)
+**Deveron Lab Ops** - [View it on App Store](https://apps.apple.com/us/app/deveron-lab-ops/id1600213314)
 - Laboratory workflow management system
   
 ## Featured Projects
