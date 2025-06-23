@@ -1,1 +1,45 @@
-Passionate iOS developer crafting intuitive digital experiences that simplify lives and spark joy. When not immersed in code, I'm exploring the transformative power of meditation and gratitude - finding peace in our chaotic world and sharing these practices with others. My journey weaves technology with personal growth, believing that mindfulness enhances creativity and innovation. As Rabindranath Tagore wrote, "The butterfly measures its existence not by months, but by moments, and it has plenty of time." - a philosophy that guides both my development work and spiritual explorations.
+# Ashesh Patel
+## iOS Developer
+
+**Swift • SwiftUI • MVVM Architecture • Performance Optimization**
+
+iOS developer with experience building enterprise applications for the healthcare and agriculture sectors. Specializing in API integration, automated testing, and Swift package development.
+
+## Published Applications
+**Deveron Field Ops** - [view it on App store](https://apps.apple.com/us/app/deveron-field-ops/id1589186774)
+- Agriculture field management application
+  
+**Deveron Lab Ops** - [view it on App Store](https://apps.apple.com/us/app/deveron-lab-ops/id1600213314)
+- Laboratory workflow management system
+  
+## Featured Projects
+
+**SwiftPromptKit** 
+- AI prompt toolkit for iOS developers [View Collection](https://gudprompt.com/c/swiftassist-ios-developer-s-ai-12009140)
+- Curated prompts for Swift code generation and debugging
+- 447 views,391 viewers, 29 submissions, 3 bookmarks for this collection.
+
+**JournalAI** 
+- AI-powered journaling with Core Data persistence and SwiftUI animations
+- Implemented functional model on the device LLM model.
+
+**HearingTestApp** 
+- Medical-grade audiometry testing application
+- Real-time audio processing with AVAudioEngine  
+
+**Enterprise Swift Packages** 
+- Reusable components for production apps
+- MapKit integration utilities
+- OAuth 2.0 authentication wrapper for Salesforce
+- RESTful API networking layer
+
+## Technical Experience
+
+**Architecture:** MVVM, Swift Package Manager, dependency injection  
+**Testing:** Unit testing, UI testing, automated CI/CD pipelines  
+**Backend:** Firebase, RESTful APIs, Socket.IO, GraphQL  
+**Performance:** Memory optimization, build time reduction, crash analytics
+
+## Contact
+📧 asheshp23@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/asheshp23)
+
