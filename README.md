@@ -9,7 +9,7 @@ iOS developer with experience building enterprise applications for the healthcar
 
 **Deveron Field Ops** - [App Store](https://apps.apple.com/us/app/deveron-field-ops/id1589186774)
 - Agriculture field management application for 500+ farms
-- Built MapKit integration and custom Swift packages
+- Integrated MapKit and built custom Swift packages
 - Reduced app build times by 30% through dependency optimization
 
 **Deveron Lab Ops** - [App Store](https://apps.apple.com/us/app/deveron-lab-ops/id1600213314)
