@@ -7,24 +7,29 @@ iOS developer with experience building enterprise applications for the healthcar
 
 ## Featured Projects
 
+**WiDonate** - [App Store](https://apps.apple.com/us/app/widonate/id6752963961)
+- Charitable giving platform enabling round-up donations with each purchase.
+- Built seamless payment integration supporting nonprofits and athletic programs.
+- Developed an intuitive user experience for effortless charitable contributions.
+
 **Deveron Field Ops** - [App Store](https://apps.apple.com/us/app/deveron-field-ops/id1589186774)
-- Agriculture field management application for 500+ farms
-- Integrated MapKit and built custom Swift packages
-- Reduced app build times by 30% through dependency optimization
+- Agriculture field management application for 500+ farms.
+- Integrated MapKit and built custom Swift packages.
+- Reduced app build times by 30% through dependency optimization.
 
 **Deveron Lab Ops** - [App Store](https://apps.apple.com/us/app/deveron-lab-ops/id1600213314)
-- Laboratory workflow management serving agricultural testing facilities
-- Implemented real-time data synchronization and RESTful API integration
-- Developed an automated testing pipeline for production reliability
+- Laboratory workflow management serving agricultural testing facilities.
+- Implemented real-time data synchronization and RESTful API integration.
+- Developed an automated testing pipeline for production reliability.
 
 **JournalAI** - [GitHub](https://github.com/Asheshp23/JournalAI) & **JournalAnalyzer** [GitHub](https://github.com/Asheshp23/JournalAnalyzer.git)
-- Privacy-focused journaling app with on-device AI analysis and enhancement of journal entries
-- Local LLM processing without cloud dependencies
+- Privacy-focused journaling app with on-device AI analysis and enhancement of journal entries.
+- Local LLM processing without cloud dependencies.
 
 **HearingTestApp** - [GitHub](https://github.com/Asheshp23/Hearing-Test-App)
-- Medical-grade audiometry testing for healthcare professionals
-- Real-time audio processing with AVAudioEngine
-- Calibrated frequency response for clinical accuracy
+- Medical-grade audiometry testing for healthcare professionals.
+- Real-time audio processing with AVAudioEngine.
+- Calibrated frequency response for clinical accuracy.
 
 **AI Development Tools**
 - Swift code generation prompts for iOS developers
@@ -34,9 +39,9 @@ iOS developer with experience building enterprise applications for the healthcar
   - [Breath Work Essentials: Your Stress Relief Toolkit](https://gudprompt.com/c/breath-work-exercises-44565957)
 
 **Enterprise Swift Packages**
-- OAuth 2.0 authentication wrapper for Salesforce integration
-- RESTful API networking layer with error handling
-- MapKit utilities for location-based applications
+- OAuth 2.0 authentication wrapper for Salesforce integration.
+- RESTful API networking layer with error handling.
+- MapKit utilities for location-based applications.
 
 ## Technical Experience
 
