@@ -1,11 +1,15 @@
 # Ashesh Patel
 ## iOS Developer
-
 **Swift • SwiftUI • MVVM Architecture • Performance Optimization**
 
 iOS developer with experience building enterprise applications for the healthcare and agriculture sectors. Specializing in API integration, automated testing, and Swift package development.
 
 ## Featured Projects
+
+**Mindful Prism** - [App Store](https://apps.apple.com/us/app/mindful-prism/id6772832020)
+- AI-powered reflection tool built on Apple Intelligence via FoundationModels.
+- Fully on-device processing - no cloud, no backend, complete user privacy.
+- Designed for clarity in moments when your mind will not quiet down.
 
 **WiDonate** - [App Store](https://apps.apple.com/us/app/widonate/id6752963961)
 - Charitable giving platform enabling round-up donations with each purchase.
@@ -44,7 +48,6 @@ iOS developer with experience building enterprise applications for the healthcar
 - MapKit utilities for location-based applications.
 
 ## Technical Experience
-
 **Architecture:** MVVM, Swift Package Manager, dependency injection  
 **Testing:** Unit testing, UI testing, automated CI/CD pipelines  
 **Backend:** Firebase, RESTful APIs, Socket.IO, GraphQL  
@@ -52,4 +55,3 @@ iOS developer with experience building enterprise applications for the healthcar
 
 ## Contact
 📧 asheshp23@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/asheshp23)
-
